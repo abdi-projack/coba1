@@ -1,0 +1,9 @@
+<scheme name="JackTheme" version="142" parent_scheme="Default">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="b9d4ff" />
+    <option name="SELECTION_FOREGROUND" value="" />
+  </colors>
+</scheme>
